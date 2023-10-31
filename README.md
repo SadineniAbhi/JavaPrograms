@@ -1,1 +1,1 @@
-# JavaPrograms of college Lab
+# JavaPrograms of College Lab
